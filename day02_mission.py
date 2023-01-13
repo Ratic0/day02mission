@@ -19,6 +19,6 @@ elif small == True and green == False :
     print(R+'이건 체리야!'+W)
 elif small == False and green == True :
     print(G+'이건 수박이야!'+W)
-elif small == False and green == False :
+else :
     print(O+'이건 호박이야!'+W)
 
